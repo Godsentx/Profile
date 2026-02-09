@@ -28,8 +28,8 @@ Installation:
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/terrain-cross-section-analysis.git
-cd terrain-cross-section-analysis
+git clone https://github.com/Godsentx/Profile
+cd Profile
 
 2. Create a virtual environment (optional but recommended):
 
@@ -157,8 +157,3 @@ Acknowledgements:
 - Open-source Python GIS libraries: GeoPandas, Rasterio, Shapely, Matplotlib.
 
 ---
-
-GitHub Repository:
-
-Explore the full code and datasets here:  
-https://github.com/your-username/terrain-cross-section-analysis
